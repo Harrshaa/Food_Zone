@@ -28,8 +28,8 @@ class About extends Component {
             )}
           </UserContext.Consumer>
         </div>
-        <h2>This is Namaste React Web Series</h2>
-        <UserClass name={"First"} location={"Dehradun Class"} />
+        <h2>This is Food Delivery App Web Series</h2>
+        <UserClass name={"First"} location={"Hyderabad Class"} />
       </div>
     );
   }

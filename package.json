@@ -1,7 +1,7 @@
 {
   "name": "namaste-react",
   "version": "1.0.0",
-  "description": "This is Namaste React by Harsha",
+  "description": "This is Food Delivery App by Harsha",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
